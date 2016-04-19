@@ -5,17 +5,17 @@
 **Vorname:** Maximilian **Nachname:** Lang **Wohnort:** Freiburg
 
 ##Schulischer Werdegang
-*Kindergarten
-*Grundschule
-*Gynasium
-*Studium
+*Kindergarten 
+*Grundschule 
+*Gynasium 
+*Studium 
 
 ##Berufserfahrungen
 >"Alles, was wir sind, ist das Resultat von dem, was wir gedacht haben" -Bastian Schweinsteiger
 
 ##Hobbies
 
-'public class ZugriffsZeiten {
+"public class ZugriffsZeiten {
 	public static void main(String[] args)
 	{
 		double[] zahlenFeld = new double[214748364];
@@ -39,5 +39,5 @@
 		
 		
 	}
-}'
+}"
 
