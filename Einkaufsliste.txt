@@ -1,0 +1,5 @@
+Einkaufsliste:
+-Eier
+-Nudeln
+-Milch
+-Pizza
